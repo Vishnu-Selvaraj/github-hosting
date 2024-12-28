@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Just practice
+          Just Today practice
         </p>
       </div>
     </>
